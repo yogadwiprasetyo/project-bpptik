@@ -23,7 +23,7 @@ project dibuat untuk memenuhi tugas dari pelatihan BPPTIK. Project melakukan pen
 
 ## Instalation
 
-1. Download folder [Project](https://drive.google.com/drive/folders/1oQF-h7nbFGR_B7AyKjCpvBiwO-W9f4Iq?usp=sharing).
+1. Download folder [Project](https://github.com/yogadwiprasetyo/project-bpptik/archive/master.zip).
 2. Pindahkan folder yang sudah didownload ke web server.
 
 ```
